@@ -99,7 +99,7 @@ input[type="submit"] {
   background: #D62828;
   color: #fff; }
 .button.primary:hover {
-  background: rgba(106, 0, 128, 0.8);
+  background: rgba(215, 40, 40, 0.8);
   box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.18), 0 1px 7px 0 rgba(0, 0, 0, 0.13), 0 3px 1px -1px rgba(0, 0, 0, 0.23); }
 
 .hero-section {
